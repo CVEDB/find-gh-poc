@@ -9,7 +9,7 @@ require (
 )
 
 require (
-	github.com/golang/protobuf v1.4.2 // indirect
+	github.com/golang/protobuf v1.5.0 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
@@ -19,5 +19,5 @@ require (
 	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/term v0.13.0 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
-	google.golang.org/protobuf v1.25.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
